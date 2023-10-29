@@ -1,0 +1,18 @@
+RewriteEngine On
+
+RewriteRule ^$ index.php [NC,L]
+RewriteRule ^trainees$ trainees.php [NC,L]
+RewriteRule ^engineers$ engineers.php [NC,L]
+RewriteRule ^to$ to.php [NC,L]
+RewriteRule ^admin$ admin.php [NC,L]
+RewriteRule ^drivers$ drivers.php [NC,L]
+RewriteRule ^others$ others.php [NC,L]
+RewriteRule ^join$ join.php [NC,L]
+
+RewriteRule ^success$ success.php [NC,L]
+
+# Disabling Directory Browse
+Options -Indexes
+
+# Custom Error Page
+ErrorDocument 404 /slpa-ect/404.php
