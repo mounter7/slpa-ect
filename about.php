@@ -33,22 +33,3 @@
 </body>
 
 </html>
-
-<style>
-    .about {
-        padding: 1rem 0;
-    }
-
-    .about .container {
-        max-width: 700px;
-        border-radius: 16px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        gap: 2rem;
-    }
-
-    .about .container p {
-        line-height: 1.4em;
-    }
-</style>

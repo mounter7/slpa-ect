@@ -24,6 +24,7 @@
                 <p>Name: Ravindu Madhushankha</p>
                 <p>Email: info@gdoop.us</p>
                 <p>Mobile: +945395434</p>
+                <p>Whatsapp: +945395434</p>
             </div>
 
             <p><b>Get In Touch</b></p>
@@ -36,22 +37,3 @@
 </body>
 
 </html>
-
-<style>
-    .contact {
-        padding: 1rem 0;
-    }
-
-    .contact .container {
-        max-width: 600px;
-        border-radius: 16px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        gap: 1rem;
-    }
-
-    .contact .container p {
-        line-height: 1.4em;
-    }
-</style>
