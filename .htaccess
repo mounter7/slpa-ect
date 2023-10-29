@@ -1,13 +1,17 @@
 RewriteEngine On
 
 RewriteRule ^$ index.php [NC,L]
+
 RewriteRule ^trainees$ trainees.php [NC,L]
 RewriteRule ^engineers$ engineers.php [NC,L]
 RewriteRule ^to$ to.php [NC,L]
 RewriteRule ^admin$ admin.php [NC,L]
 RewriteRule ^drivers$ drivers.php [NC,L]
 RewriteRule ^others$ others.php [NC,L]
+
 RewriteRule ^join$ join.php [NC,L]
+RewriteRule ^contact$ contact.php [NC,L]
+RewriteRule ^about$ about.php [NC,L]
 
 RewriteRule ^success$ success.php [NC,L]
 

@@ -15,8 +15,8 @@
       <a href="drivers">Drivers</a>
       <a href="others">Others</a>
       <div class="break-line"></div>
-      <a href="#">Contact</a>
-      <a href="#">About</a>
+      <a href="contact">Contact</a>
+      <a href="about">About</a>
     </div>
     <div class="item">
       <p>Created by Ravindu Madhushankha</p>
