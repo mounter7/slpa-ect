@@ -1,4 +1,4 @@
-# ECT STAF
+# ECT STAFF
 
 FUsed to collect data from staff members in the office.
 
